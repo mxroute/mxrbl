@@ -4,4 +4,4 @@ To use this blacklist, direct your DNS queries to bl.mxrbl.com. If you are not f
 <br><br>
 <a href="lookup.php">Click here</a> to check if an IP is listed on our blacklist.
 <br><br><br>
-June 9th Update: There may be intermittent failures where IPs that should be blacklisted appear to not be. This is due to an upgrade taking place. This message will be removed when it is complete.
+June 13th Update: Having some trouble with exclusions in rbldnsd causing previously whitelisted IPs to appear as listed. It's a very small set, but working on it.
